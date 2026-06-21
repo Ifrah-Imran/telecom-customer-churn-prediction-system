@@ -112,14 +112,14 @@ pip install -r requirements.txt
 streamlit run app.py
 
 # 📌 Key Insights
-Proper preprocessing significantly improves churn prediction performance
-Tree-based models handle churn classification effectively
-Market Basket Analysis reveals strong product relationships using lift values
-Apriori and FP-Growth produce similar results with slight efficiency differences
+- Proper preprocessing significantly improves churn prediction performance
+- Tree-based models handle churn classification effectively
+- Market Basket Analysis reveals strong product relationships using lift values
+- Apriori and FP-Growth produce similar results with slight efficiency differences
 
 # 🚀 Future Improvements
-Hyperparameter tuning using GridSearchCV
-Ensemble models for churn prediction
-Improved Streamlit UI/UX
-Larger datasets for deeper association mining
-Deployment on cloud platforms
+- Hyperparameter tuning using GridSearchCV
+- Ensemble models for churn prediction
+- Improved Streamlit UI/UX
+- Larger datasets for deeper association mining
+- Deployment on cloud platforms
